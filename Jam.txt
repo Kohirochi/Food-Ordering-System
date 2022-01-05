@@ -1,0 +1,11 @@
+12345678
+cart;D3;
+order101;A2;Spicy Grilled Chicken Burger
+order101;B1;Seafood Olio
+order101;C4;Fish and Chips
+payment101;57.0
+order102;A1;Black Pepper Chicken Burger
+order102;A4;Osaka Beef Burger
+order102;D1;Orange Juice
+order102;D2;Cappuccino
+payment102;51.0

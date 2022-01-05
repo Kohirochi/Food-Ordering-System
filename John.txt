@@ -1,0 +1,6 @@
+87654321
+order104;A2;Spicy Grilled Chicken Burger
+order104;B4;White Dory Carbonara
+order104;D1;Orange Juice
+payment104;44.5
+cart;B3;

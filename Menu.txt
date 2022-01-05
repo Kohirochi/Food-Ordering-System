@@ -1,0 +1,16 @@
+burger;Black Pepper Chicken Burger;18.00;Chicken thigh grilled to perfection, coated with house-made black pepper sauce. Served with fries and salad.
+burger;Spicy Grilled Chicken Burger;18.50;Grilled chicken thigh topped with special chili sauce. Served with fries and salad.
+burger;Black Pepper Beef Burger;20.00;Beef patty coated with house-made black pepper sauce. Served with fries and salad.
+burger;Osaka Beef Burger;19.00;Beef patty marinated with Japanese sesame teriyaki sauce. Served with fries and salad.
+pasta;Seafood Olio;17.50;Spaghetti cooked with prawns, mussels and scallops. Choice of spicy and non-spicy.
+pasta;Cheese Baked Macaroni;14.00;Tomato based macaroni and pepperoni sausages, baked with mozzarella.
+pasta;Spaghetti Bolognese;16.00;Traditional pasta cooked in Italian tomato sauce with minced meat. Choice of chicken and beef.
+pasta;White Dory Carbonara;18.00;Freshly grilled dory fish cooked with fettuccine.
+meat;Caribbean Grilled Chicken;20.00;Grilled chicken served with creamy spicy house specialty sauce. Served with fries and mashed potatoes.
+meat;Black Pepper Chicken;19.00;Grilled chicken served with black pepper sauce. Served with salad and mashed potatoes.
+meat;Lamb Chop;24.00;Lamb chop marinated with fine herbs and black pepper sauce. Served with fries and mashed potatoes.
+meat;Fish and Chips;21.00;Fish fillet coated with batter and deep-fried. Served with salad and fries.
+beverage;Orange Juice;8.00;Freshly squeezed orange made into juice.
+beverage;Cappuccino;6.00;A coffee drink composed of a single espresso shot and hot milk.
+beverage;Coconut Milkshake;7.50;Prepared with toasted coconut, milk and ice cream blended together.
+beverage;Pepsi Float;9.00;Pepsi served with vanilla ice cream at the top.
